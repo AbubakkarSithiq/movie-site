@@ -5,144 +5,144 @@
             "id":1 ,
             "brand": "SAMSUNG",
             "category": {"name":"applinces","type":"television"},
-            "price":"12,000",
-            "rating":"3.5",
+            "price":12,000,
+            "rating":3.5,
             "poster":"https://www.bajajfinserv.in/Image_QLED_TV_2_QLED_354x202_desktop.jpg"
         },
         {
             "id": 2,
             "brand": "croma",
             "category": {"name":"applinces","type":"washing machine"},
-            "price":"16,000",
-            "rating":"3",
+            "price":16,000,
+            "rating":3,
             "poster":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Xiaomi_Mijia_Front_Loading_Drum_Washing_Machine_12_kg.jpeg"
         },
         {
             "id": 3,
             "brand": "whirlpool",
             "category": {"name":"applinces","type":"refridgerator"},
-            "price":"30,000",
-            "rating":"4",
+            "price":30,000,
+            "rating":4,
             "poster":"https://5.imimg.com/data5/UB/VX/HZ/ANDROID-105122817/product-jpeg-500x500.jpg"
         },
         {
             "id": 4,
             "brand": "bajaj",
             "category": {"name":"applinces","type":"mixer"},
-            "price":"8000",
-            "rating":"2.5",
+            "price":8000,
+            "rating":2.5,
             "poster":"https://media.croma.com/image/upload/v1651665389/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/251616_usd3hj.png"
         },
         {
             "id": 5,
             "brand": "one plus",
             "category": {"name":"electronics","type":"mobile"},
-            "price":"21,000",
-            "rating":"4",
+            "price":21,000,
+            "rating":4,
             "poster":"https://oasis.opstatics.com/content/dam/oasis/page/2022/new-homepage/na/store/card/10pro/SmallCardProduct_Mob.png"
         },
         {
             "id": 6,
             "brand": "shopify",
             "category": {"name":"electronics","type":"watch"},
-            "price":"28,000",
-            "rating":"4",
+            "price":28,000,
+            "rating":4,
             "poster":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/9e5b8bf2-29bf-4e1c-b24f-f8f4196ac14b_600x.png?v=1625157764"
         },
         {
             "id": 7,
             "brand": "lenovo",
             "category": {"name":"electronics","type":"tablet"},
-            "price":"42,000",
-            "rating":"3.8",
+            "price":42,000,
+            "rating":3.8,
             "poster":"https://www.lenovo.com/medias/lenovo-tablet-lenovo-tab-p12-pro-subseries-hero.png?context=bWFzdGVyfHJvb3R8MjM1NTEwfGltYWdlL3BuZ3xoOTgvaGQ3LzEyNjgwMzcxOTI5MTE4LnBuZ3wzZjU1YzNmYmMzZDgxOTQ5NjBkZjU2ZThhNmUxZGMzY2E2ZjM3ZjM1OGMyZDA4YzhjNTBhNjUxZDRhMDlhZjgx"
         },
         {
             "id": 8,
             "brand": "tecon",
             "category": {"name":"electronics","type":"mobile"},
-            "price":"18,500",
-            "rating":"3.5",
+            "price":18,500,
+            "rating":3.5,
             "poster":"https://www.tecno-mobile.in/storage/images/20220908/a809a228c03832225f2a048f3d4307b5.jpg"
         },
         {
             "id": 9,
             "brand": "boat",
             "category": {"name":"electronics","type":"bluetooth"},
-            "price":"18,000",
-            "rating":"3.9",
+            "price":18,000,
+            "rating":3.9,
             "poster":"https://img1.gadgetsnow.com/gd/images/products/additional/original/G299224_View_1/accessories/headphones-headsets/boat-airdopes-131-true-wireless-bluetooth-headset-active-black-.jpg"
         },
         {
             "id": 10,
             "brand": "Woodenfaa chair",
             "category": {"name":"furniture","type":"chair"},
-            "price":"23,000",
-            "rating":"4.2",
+            "price":23,000,
+            "rating":4.2,
             "poster":"https://cdn.britannica.com/54/27054-050-8BB97D2A/armchair-Walnut-craftsman-Philadelphia-Art-Institute-of.jpg"
         },
         {
             "id": 11,
             "brand": "Woodenfaa dining",
             "category": {"name":"furniture","type":"dining"},
-            "price":"26,700",
-            "rating":"3.5",
+            "price":26,700,
+            "rating":3.5,
             "poster":"https://m.media-amazon.com/images/I/61nKGKkNHeL._SX679_.jpg"
         },
         {
             "id":12 ,
             "brand": "amaravathi",
             "category": {"name":"furniture","type":"sofa"},
-            "price":"35,000",
-            "rating":"4.3",
+            "price":35,000,
+            "rating":4.3,
             "poster":"https://content.jdmagicbox.com/comp/amravati/d2/9999px721.x721.220908154649.i6d2/catalogue/couch-puffy-nandgaon-peth-amravati-furniture-dealers-iinyw1xagp.jpg"
         },
         {
             "id": 13,
             "brand": "spabed",
             "category": {"name":"furniture","type":"bed"},
-            "price":"39,000",
-            "rating":"4",
+            "price":39,000,
+            "rating":4,
             "poster":"https://www.lookinggoodfurniture.com/wp-content/uploads/2017/11/STYLE-SPA-BED-Main.jpg"
         },
         {
             "id": 14,
             "brand": "otto",
             "category": {"name":"fashion","type":"shirt"},
-            "price":"1800",
-            "rating":"3.8",
+            "price":1800,
+            "rating":3.8,
             "poster":"https://d1yluyhql7qeci.cloudfront.net/ckecom/images/media/store1/2020/09/medium1600330533XvGd617508.JPG"
         },
         {
             "id": 15,
             "brand": "naatil",
             "category": {"name":"fashion","type":"t-shirt"},
-            "price":"700",
-            "rating":"3",
+            "price":700,
+            "rating":3,
             "poster":"https://www.mydesignation.com/wp-content/uploads/2022/12/naatil-evideya-tshirt-mockup-image--500x500.jpg"
         },
         {
             "id": 16,
             "brand": "blacker",
             "category": {"name":"fashion","type":"short pant"},
-            "price":"600",
-            "rating":"3.2",
+            "price":600,
+            "rating":3.2,
             "poster":"https://5.imimg.com/data5/EH/OK/MY-37449815/boys-short-pants-500x500.jpg"
         },
         {
             "id": 17,
             "brand": "lycra",
             "category": {"name":"fashion","type":"pant"},
-            "price":"1300",
-            "rating":"3.8",
+            "price":1300,
+            "rating":3.8,
             "poster":"https://media.gq.com/photos/61379a103024e6500209857c/master/w_1280%2Cc_limit/Bonobos-stretch-fabric-weekday-warrior-dress-pants.jpg"
         },
         {
             "id": 18,
             "brand": "otto",
             "category": {"name":"fashion","type":""},
-            "price":"2300",
-            "rating":"4",
+            "price":2300,
+            "rating":4,
             "poster":"https://estilofashions.com/wp-content/uploads/2021/02/Mens-Jeans-Pant-1-1.jpg"
         }
   ],
