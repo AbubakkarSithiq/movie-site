@@ -21,7 +21,7 @@
             "id": 3,
             "brand": "whirlpool",
             "category": {"name":"applinces","type":"refridgerator"},
-            "price":30,000,
+            "price":30000,
             "rating":4,
             "poster":"https://5.imimg.com/data5/UB/VX/HZ/ANDROID-105122817/product-jpeg-500x500.jpg"
         },
